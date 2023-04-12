@@ -3,7 +3,7 @@ document
     .forEach(li => li.addEventListener('click', e => {
         // console.log(e);
         const confetti = document.createElement('img');
-        confetti.setAttribute('src', './images/confettiGif.gif');
+        confetti.setAttribute('src', './image/qqqqqqqq.gif');
         confetti.style.position = 'absolute';
         confetti.style.top = `${e.pageY}px`;
         confetti.style.left = `${e.pageX}px`;
